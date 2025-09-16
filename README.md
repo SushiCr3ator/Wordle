@@ -1,2 +1,3 @@
 # Wordle
-There are a few bugs so if you find more you can comment on it :)
+There are a few bugs so if you find more you can comment on it :) </br>
+German doesnt work YET....
